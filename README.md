@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi Semua 👋
+Perkenalkan nama saya **Muhammad Miftah Darussalam**.
+Saya merupakan Technology Enthusiast yang memiliki rasa ingin belajar yang tinggi🔭.
+Saya memiliki pengetahuan dasar dibidang Technology dan Soft Skill.
+Jika kamu ingin lebih tau tentangku, Bisa mengikuti ku di ✨(https://www.linkedin.com/in/muhammadmiftahdarussalam)✨
 
+  Terima Kasih 
 <!--
 **MiftahD/MiftahD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
